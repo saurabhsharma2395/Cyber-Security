@@ -1,2 +1,2 @@
 # Cyber-Security
-Upgrade cyber security session
+LetsUpgrade cyber security session
